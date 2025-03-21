@@ -272,7 +272,7 @@ footer{
 
 
     .image img{
-        width: 380px;
+        width: 380px !important;
         margin-block: 20px;
     }
 
@@ -320,8 +320,8 @@ footer{
         height: 50%;
     }
 
-    .title{
-        font-size:40px;
+    .hero h1.title{
+        font-size:30px !important;
     }
 
        .test::before{
