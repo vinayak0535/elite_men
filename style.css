@@ -23,6 +23,10 @@ a.nav-link{
     font-weight: 300;
 }
 
+a.nav-link:hover{
+    color:#fff;
+}
+
 section.hero{
     background-image: url(img/hero.png);
     color: #fff;
