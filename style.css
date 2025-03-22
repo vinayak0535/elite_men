@@ -301,6 +301,7 @@ footer{
         width: 90%;
         margin-top: 25px;
         margin: auto;
+        padding-bottom:8px;
     }
 
     .touch{
@@ -347,7 +348,8 @@ footer{
         display: block;
         margin: auto;
         z-index: 1;
-        height: 180px;    
+        height: 180px;
+        margin-blcok:20px;
     }
 
     .test q{
