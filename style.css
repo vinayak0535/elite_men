@@ -274,7 +274,7 @@ footer{
 
 
     .image img{
-        width: 380px !important;
+        width: 90% !important;
         margin-block: 20px;
     }
 
@@ -291,8 +291,7 @@ footer{
     }
 
     .test img{
-        height: 200px;
-        margin-block: 20px;
+       
     }
 
     .social-card{
@@ -345,6 +344,8 @@ footer{
         display: block;
         margin: auto;
         z-index: 1;
+        height: 180px;
+        margin-top: 40px;
     
     }
 
