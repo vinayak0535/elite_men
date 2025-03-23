@@ -276,12 +276,15 @@ footer{
         margin: auto;
     }
 
+    .title{
+        width:60%
+    }
 
     .image img{
         width: 90% !important;
         display:block;
-        margin:auto;
-        margin-block: 20px;
+        margin:auto 20px;
+        
     }
 
     .pack-card{
@@ -334,7 +337,7 @@ footer{
         content: "";
         position: absolute;
         left: 0;
-        margin-top:25px;
+
         width: 100%;
         height: 180px;
         background-color:var(--primary-color) ;
