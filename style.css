@@ -331,6 +331,7 @@ footer{
 
     .hero h1.title{
         font-size:30px !important;
+        text-align:center;
     }
 
        .test::before{
