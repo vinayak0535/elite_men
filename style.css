@@ -265,6 +265,10 @@ footer{
     background-color: var(--secondry-color);
     color: #fff;
 }
+.navbar-toggler-icon{
+    background-image: url(img/menu.png);
+}
+
 
 @media (max-width:768px) {
     .row{
